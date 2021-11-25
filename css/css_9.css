@@ -1,6 +1,12 @@
 @font-face {
-  font-family: 'Mr De Haviland';
+  font-family: 'Spartan';
   font-style: normal;
   font-weight: 400;
-  src: url(../fonts/OpNVnooIhJj96FdB73296ksbOg3F60Y.ttf) format('truetype');
+  src: url(../fonts/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrGFuV6JABE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/l7gAbjR61M69yt8Z8w6FZf9WoBxdBrFivl6JABE.ttf) format('truetype');
 }
